@@ -2,7 +2,7 @@ const heading = React.createElement(
   "h1",
   {
     id: "heading",
-    class: "head",
+    className: "head",
   },
   "Hello world from React!"
 );
